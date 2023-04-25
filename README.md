@@ -11,7 +11,7 @@ Database: MongoDB
 GUI Framework: Streamlit
 
 ### Scraping the tweet
-   -To scrap the data Snscrape python library is used. The TweetSearchScrape() method scrape the Twitter data without Twitter API. The method is passed with a query conating the hashtag to be search and the search dates (From start date to end date)
+   -To scrap the data Snscrape python library is used. The TweetSearchScraper() method scrape the Twitter data without Twitter API. The method is passed with a query conating the hashtag to be search and the search dates (From start date to end date)
 
 ### Uploading data in MongoDB
    -Tweets that are scraped using the Snscrape library is inserted into the MongoDB database by establishing the clinet connection. The tweet datas are strored under the twitter db collections.
