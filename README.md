@@ -3,6 +3,8 @@
 This project is about scraping twitter data using Streamlit. Streamlit scrapes the twitter data for the given hashtag/keyword for the given period with the helo of snscrape library.
 The data from the scraped tweets are uploaded in MongoDB. It can be downloaded either as CSV or JSON file.
 
+![Best-Twitter-Scrapers-min](https://github.com/Srivathsan221/Twitter-Scraping/assets/61115411/07654125-ebc9-4e0b-96ac-1050b3f38fe8)
+
 ## Technology Stack
 
 Language: Python
